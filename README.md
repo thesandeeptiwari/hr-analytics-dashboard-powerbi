@@ -29,10 +29,7 @@ This dashboard helps answer key business questions such as:
 
 ## Live Dashboard
 
-🔗 **View Interactive Dashboard**
-
-https://app.powerbi.com/view?r=eyJrIjoiYzgyMTdmYTctMjcwNS00NTQ1LTg4YjEtNTFhYTY2YTdkNTFjIiwidCI6ImU2YjE2Yjc3LTBkM2ItNDQyZi05NzU1LTMxNGI2MzZhN2E1OSJ9
-
+🔗 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzgyMTdmYTctMjcwNS00NTQ1LTg4YjEtNTFhYTY2YTdkNTFjIiwidCI6ImU2YjE2Yjc3LTBkM2ItNDQyZi05NzU1LTMxNGI2MzZhN2E1OSJ9)
 ---
 
 ## Key Metrics
